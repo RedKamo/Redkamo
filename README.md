@@ -4,7 +4,7 @@
 
 I'm a Frontend developer and UI/UX enthusiast from Colombia :co: . I Always learning new technologies, and working on personal projects with JavaScript and Reactjs. 
 Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
-<img src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" />
+<img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" />
 
 <!--
 **RedKamo/Redkamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
