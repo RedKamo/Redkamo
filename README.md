@@ -6,14 +6,16 @@ I'm a Frontend developer and UI/UX enthusiast from Colombia :co: . I Always lear
 Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
 
 <br>
-
-<img align="right" height="350" width="400" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" />
-
-<br>
+<p align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
 
 [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
+</p>
+<img align="right" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" />
+
+<br>
+
 
 <!--
 **RedKamo/Redkamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
