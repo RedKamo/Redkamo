@@ -1,10 +1,15 @@
-### Hi there 👋, I am Camilo Suarez aka RedKamo, a Frontend developer in progress 
+### Hi there 👋, I am Camilo Suarez aka RedKamo
 
 ------------
 
 I'm a Frontend developer and UI/UX enthusiast from Colombia :co: . I Always learning new technologies, and working on personal projects with JavaScript and Reactjs. 
 Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
+
+<br>
+
 <img align="right" height="350" width="400" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" />
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
 
