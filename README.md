@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Camilo Suarez aka RedKamo
+![Alt Text](https://www.redkamo.com/images/76d73e1e9a4a63d30aae4af3e733c55e-bannerimg.gif)
+
 
 <!--
 **RedKamo/Redkamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
