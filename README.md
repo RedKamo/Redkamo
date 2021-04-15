@@ -44,10 +44,10 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 ## Github stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true">
 
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=redkamo">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redkamo&theme=radical">
 
 
 <!--
