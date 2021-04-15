@@ -22,6 +22,8 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 - 📐 I enjoy being part of the design process, structure, and flow of a web/app.
 
+<br>
+
 ## Languages and Tools :
 
 ------------
@@ -35,6 +37,9 @@ I Always learning new technologies, currently studying at Platzi master program 
 <img align="left" alt="Git" height="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" />
 
 ------------
+
+<br>
+
 ## Github stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
