@@ -1,4 +1,4 @@
-### Hi there 👋, I am Camilo Suarez aka RedKamo
+ Hi there 👋, I am Camilo Suarez aka RedKamo
 
 ------------
 
@@ -10,12 +10,18 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 <br>
 
+### About me 👻 :
+
 - 💻 I'm currently studying Reactjs to master it.
 
 - ✨ In the future I would like to have solid knowledge not only in frontend but also in backend and UI/UX.
 
 - 🐱‍🚀 I enjoy learning different web technologies.
 
+- 📐 I enjoy being part of the design process, structure, and flow of a web/app.
+
+
+------------
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
