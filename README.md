@@ -8,6 +8,7 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" height="400" width="400" />
 
+<br>
 
 - 💻 I'm currently studying Reactjs to master it.
 
