@@ -24,9 +24,9 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 <br>
 
+------------
 ## Languages and Tools :
 
-------------
 
 <img  align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"  width="30" />
 <img  align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"  width="35" />
