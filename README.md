@@ -1,4 +1,4 @@
- Hi there 👋, I am Camilo Suarez aka RedKamo
+# Hi there 👋, I am Camilo Suarez aka RedKamo
 
 ------------
 
@@ -10,7 +10,7 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 <br>
 
-### About me 👻 :
+## About me 👻 :
 
 ------------
 
@@ -22,12 +22,7 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 - 📐 I enjoy being part of the design process, structure, and flow of a web/app.
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
-
-
-### Languages and Tools :
+## Languages and Tools :
 
 ------------
 
@@ -39,6 +34,10 @@ I Always learning new technologies, currently studying at Platzi master program 
 <img align="left" alt="Figma" width="20px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" />
 <img align="left" alt="Git" height="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" />
 
+------------
+## Github stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
 
 
 
