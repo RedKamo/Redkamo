@@ -26,10 +26,9 @@ I Always learning new technologies, currently studying at Platzi master program 
   [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
 
 
-<br>
 
-## Languages and Tools :
 
+## 🧰 Languages and Tools :
 
 <img  align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"  width="30" />
 <img  align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"  width="35" />
@@ -40,9 +39,8 @@ I Always learning new technologies, currently studying at Platzi master program 
 <img align="left" alt="Git" height="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" />
 
 
-<br>
 
-## Github stats:
+## 📊 Github stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true">
 
