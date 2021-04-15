@@ -38,11 +38,12 @@ I Always learning new technologies, currently studying at Platzi master program 
 <img align="left" alt="Figma" width="20px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" />
 <img align="left" alt="Git" height="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" />
 
+<br>
 
-## 📫 How to reach me: 
+## 📫 How to reach me : 
 
 <img  align="left" alt="linkedin" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg"  width="30" />
-<img  align="left" alt="twitter" src="https://i7.pngguru.com/preview/872/50/384/computer-icons-social-media-logo-twitter-social-media.jpg"  width="30" />
+<img  align="left" alt="twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"  width="30" />
 
 <br>
 
