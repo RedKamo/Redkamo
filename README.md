@@ -12,11 +12,13 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 - 💻 I'm currently studying Reactjs to master it.
 
-- ✨ In the future I would like to have solid knowledge not only in frontend but also in backend and UI/UX.
+- ✨ In the future I would like to have solid knowledge not only in 
+      frontend but also in backend and UI/UX.
 
 - 🐱‍🚀 I enjoy learning different web technologies.
 
-- 📐 I enjoy being part of the design process, structure, and flow of a web/app.
+- 📐 I enjoy being part of the design process, structure, and flow of
+      a web/app.
 
   <br />
 ## 📫 How to reach me : 
