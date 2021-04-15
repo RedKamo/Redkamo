@@ -1,6 +1,5 @@
 # Hi there 👋, I am Camilo Suarez aka RedKamo
 
-------------
 
 I Always learning new technologies, currently studying at Platzi master program and working on personal projects with JavaScript and Reactjs, High detail in user experience and responsive design, Passionate about technology, chess and astronomy. Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
 
@@ -12,7 +11,6 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 ## About me 👻 :
 
-------------
 
 - 💻 I'm currently studying Reactjs to master it.
 
@@ -24,7 +22,6 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 <br>
 
-------------
 ## Languages and Tools :
 
 
@@ -36,7 +33,6 @@ I Always learning new technologies, currently studying at Platzi master program 
 <img align="left" alt="Figma" width="20px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" />
 <img align="left" alt="Git" height="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" />
 
-------------
 
 <br>
 
