@@ -2,22 +2,26 @@
 
 ------------
 
-I'm a Frontend developer and UI/UX enthusiast from Colombia :co: . I Always learning new technologies, and working on personal projects with JavaScript and Reactjs. 
-Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
+I Always learning new technologies, currently studying at Platzi master program and working on personal projects with JavaScript and Reactjs, High detail in user experience and responsive design, Passionate about technology, chess and astronomy. Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
 
 <br>
 <p align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
+### 
+- 💻 I'm currently studying Reactjs to master it.
+
+- ✨ In the future I would like to have solid knowledge not only in frontend but also in backend and UI/UX.
+
+- 🐱‍🚀 I enjoy learning different web technologies.
+
+
 
 [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
 
 <img align="right" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" />
 </p>
-
-
 <br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
 
 <!--
 **RedKamo/Redkamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
