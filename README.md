@@ -26,7 +26,7 @@ I Always learning new technologies, currently studying at Platzi master program 
   [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
 
 
-
+<br>
 
 ## 🧰 Languages and Tools :
 
@@ -39,6 +39,12 @@ I Always learning new technologies, currently studying at Platzi master program 
 <img align="left" alt="Git" height="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" />
 
 
+## 📫 How to reach me: 
+
+<img  align="left" alt="linkedin" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg"  width="30" />
+<img  align="left" alt="twitter" src="https://i7.pngguru.com/preview/872/50/384/computer-icons-social-media-logo-twitter-social-media.jpg"  width="30" />
+
+<br>
 
 ## 📊 Github stats:
 
