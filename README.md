@@ -17,10 +17,10 @@ I Always learning new technologies, currently studying at Platzi master program 
 - 📐 I enjoy being part of the design process, structure, and flow of a web/app.
 
 
-  <br/>
+  <br />
   
   [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
-<br/>
+<br />
 
 ## 🧰 Languages and Tools :
 
@@ -31,13 +31,13 @@ I Always learning new technologies, currently studying at Platzi master program 
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Figma" width="20px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" />
 <img align="left" alt="Git" height="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" />
-<br>
+<br />
 
 ## 📫 How to reach me : 
 
 <a href="https://github.com/terrytangyuan"><img  align="left" alt="linkedin" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"  width="30" /></a>
 <a href="https://twitter.com/RedKamo_"><img  align="left" alt="twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"  width="30" /></a>
-<br/>
+<br />
 
 ## 📊 Github stats:
 
