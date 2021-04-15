@@ -12,6 +12,8 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 ### About me 👻 :
 
+------------
+
 - 💻 I'm currently studying Reactjs to master it.
 
 - ✨ In the future I would like to have solid knowledge not only in frontend but also in backend and UI/UX.
@@ -21,10 +23,16 @@ I Always learning new technologies, currently studying at Platzi master program 
 - 📐 I enjoy being part of the design process, structure, and flow of a web/app.
 
 
-------------
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
+
+
+### Languages and Tools :
+
+------------
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="30" width="30" />
+
 
 <!--
 **RedKamo/Redkamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
