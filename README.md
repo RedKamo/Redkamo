@@ -32,6 +32,7 @@ I Always learning new technologies, currently studying at Platzi master program 
 ------------
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="30" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height="30" width="30" />
 
 
 <!--
