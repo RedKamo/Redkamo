@@ -12,6 +12,7 @@ I Always learning new technologies, currently studying at Platzi master program 
 ## About me 👻 :
 
 
+
 - 💻 I'm currently studying Reactjs to master it.
 
 - ✨ In the future I would like to have solid knowledge not only in frontend but also in backend and UI/UX.
@@ -20,7 +21,9 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 - 📐 I enjoy being part of the design process, structure, and flow of a web/app.
 
-  <br>
+
+
+<br>
   
   [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
 
