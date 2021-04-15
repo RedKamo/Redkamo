@@ -20,8 +20,9 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 - 📐 I enjoy being part of the design process, structure, and flow of a web/app.
 
-[![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
-
+  <br>
+  
+  [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
 
 
 <br>
