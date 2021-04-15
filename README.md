@@ -3,10 +3,12 @@
 I Always learning new technologies, currently studying at Platzi master program and working on personal projects with JavaScript and Reactjs, High detail in user experience and responsive design, Passionate about technology, chess and astronomy. Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" height="350" width="380" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" height="350" width="360" />
 <br/>
 
 ## About me 👻 :
+
+<br/>
 
 - 💻 I'm currently studying Reactjs to master it.
 
