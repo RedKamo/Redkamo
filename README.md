@@ -18,6 +18,12 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 
   <br />
+
+  ### 📫 How to reach me : 
+
+  <a href="https://www.linkedin.com/in/camiloasuarez/" target="_blank"><img  align="left" alt="linkedin" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"  width="30" /></a>
+  <a href="https://twitter.com/RedKamo_"  target="_blank"><img  align="left" alt="twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"  width="30" /></a>
+  
   
   [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
 
@@ -36,11 +42,6 @@ I Always learning new technologies, currently studying at Platzi master program 
   
   <br />
 
-## 📫 How to reach me : 
-
-<a href="https://www.linkedin.com/in/camiloasuarez/" target="_blank"><img  align="left" alt="linkedin" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"  width="30" /></a>
-<a href="https://twitter.com/RedKamo_"  target="_blank"><img  align="left" alt="twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"  width="30" /></a>
-  
   
 <br />
 
