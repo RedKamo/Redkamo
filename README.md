@@ -3,7 +3,7 @@
 I Always learning new technologies, currently studying at Platzi master program and working on personal projects with JavaScript and Reactjs, High detail in user experience and responsive design, Passionate about technology, chess and astronomy. Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" height="400" width="400" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" height="350" width="380" />
 <br/>
 
 ## About me 👻 :
@@ -23,6 +23,8 @@ I Always learning new technologies, currently studying at Platzi master program 
   <a href="https://twitter.com/RedKamo_"  target="_blank"><img  align="left" alt="twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"  width="30" /></a>
   
   <!-- [![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev) -->
+
+ <br />
 
 <br />
 
