@@ -16,10 +16,11 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 
 
-[![Repos Badge](https://badges.pufler.dev/repos/redkamo)](https://badges.pufler.dev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
 
-<img align="right" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" />
 </p>
+<img align="right" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/RedKamo/Redkamo/main/assets/ghprofile.gif" />
+
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true)
 
