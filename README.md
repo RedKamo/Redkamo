@@ -48,7 +48,7 @@ I Always learning new technologies, currently studying at Platzi master program 
 
 ## 📊 Github stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=redkamo&show_icons=true&theme=radical&show_icons=truetitle_color=FF0032&icon_color=FF0032&text_color=F4F5F7&bg_color=212121&show_icons=true&">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redkamo&theme=radical">
 
 
