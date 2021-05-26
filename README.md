@@ -1,4 +1,4 @@
-# Hi there 👋, I am Camilo Suarez aka RedKamo
+# Hi there 👋, I am Camilo Suarez.
 
 I Always learning new technologies, currently studying at Platzi master program and working on personal projects with JavaScript and Reactjs, High detail in user experience and responsive design, Passionate about technology, chess and astronomy. Passionate about technology 👨🏾‍💻, chess ♟ and astronomy 🛰.
 
